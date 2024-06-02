@@ -1,0 +1,20 @@
+111;Sebuah Seni untuk Bersikap Bodo Amat;Mark Manson;Gramedia Widiasarana Indonesia;2009;94400;40
+112;Almond (Soft Cover);Sohn Won Pyung;Gramedia Widiasarana Indonesia;2019;70400;52
+113;Pulang-Pergi;Tere Liye;Sebak Grip Nusantara;2020;79200;78
+114;Insecurity Is My Middle Name;Alvi Syahrin;Alvi Ardhi Publishing;2021;83700;67
+115;Overture Sebuah Lagu Kala Mendung;Disa Tannos;Magenta Media;2014;33150;100
+116;Kambing Jantan Revisi;Raditya Dika;GagasMedia;2017;73000;45
+117;Filosofi Teras;Henry Manampiring;Kompas Penerbit Buku;2018;79000;44
+118;Rusak Saja Buku Ini (Hard Cover);Sony Adams;Psikologi Corner;2010;80550;18
+119;Mantappu Jiwa (Hard Cover);Jerome Polin Sijabat;Gramedia Pustaka Utama;2019;79200;87
+120;Ikhlas Paling Serius (Soft Cover);Fajar Sulaiman;Media Kita;2014;58500;34
+121;5 Cm ( Soft Cover );Donny Dhirgantoro;Gramedia Widiasarana Indonesia;2019;72000;44
+122;The Alpha Girl's Guide (Soft Cover);Henry Manampiring;GagasMedia;2020;79200;56
+123;How To Have A Beatiful Mind (Soft Cover);Edward De Bono;Elex Media Komputindo;2017;70400;57
+124;Bedebah Di Ujung Tanduk (Soft Cover);Tere Liye;PENERBIT SABAK GRIP;2021;80100;90
+125;Mariposa (Soft Cover);Luluk HF;Coconut Books;2020;89100;89
+126;La Tahzan: Jangan Bersedih (Hard Cover);Aidh Al Qarni;Qisthi Press;2010;145000;78
+127;Potongan Tubuh (Soft Cover);Pyun Hye Young, Park Min Gyu, Dkk;BACA;2019;65000;88
+128;Laskar Pelangi Edisi Ke-50 ( Soft Cover);Andrea Hirata;Bentang Pustaka;2020;80100;77
+129;Ayah (Soft Cover);Andrea Hirata;Mizan;2016;91021;112
+130;Dunia Sophie;Jostien Gaarder;Mizan Publishing;2020;121500;65
